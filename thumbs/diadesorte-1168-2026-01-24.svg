@@ -2,93 +2,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2E7D32"/>
-      <stop offset="1" stop-color="#266729"/>
+      <stop offset="0" stop-color="#FB8C00"/>
+      <stop offset="1" stop-color="#EF6C00"/>
     </linearGradient>
   </defs>
 
   <rect width="1080" height="1080" fill="url(#bg)"/>
 
-  <text x="70" y="120" font-family="Poppins, Arial, sans-serif" font-size="54" font-weight="900" fill="#FFFFFF">
-    Dia de Sorte
-  </text>
-
-  <text x="70" y="180" font-family="Poppins, Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" opacity="0.92">
-    Concurso 1168 • 24/01/2026
-  </text>
-
-  <text x="70" y="300" font-family="Poppins, Arial, sans-serif" font-size="86" font-weight="900" fill="#FFFFFF">
-    ACUMULOU
-  </text>
+  <text x="110" y="190" fill="#fff" font-size="56" font-weight="900">Dia de Sorte • Concurso 1168</text>
+  <text x="110" y="255" fill="rgba(255,255,255,0.92)" font-size="34">24/01/2026 • ESPAÇO DA SORTE</text>
 
   
-      <g>
-        <circle cx="114" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
-        <circle cx="114" cy="414" r="44" fill="none" stroke="#FBC02D" stroke-width="6" opacity="0.9"/>
-        <text x="114" y="423.52" text-anchor="middle"
-          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#1B5E20">
-          01
-        </text>
-      </g>
-      <g>
-        <circle cx="220" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
-        <circle cx="220" cy="414" r="44" fill="none" stroke="#FBC02D" stroke-width="6" opacity="0.9"/>
-        <text x="220" y="423.52" text-anchor="middle"
-          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#1B5E20">
-          03
-        </text>
-      </g>
-      <g>
-        <circle cx="326" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
-        <circle cx="326" cy="414" r="44" fill="none" stroke="#FBC02D" stroke-width="6" opacity="0.9"/>
-        <text x="326" y="423.52" text-anchor="middle"
-          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#1B5E20">
-          07
-        </text>
-      </g>
-      <g>
-        <circle cx="432" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
-        <circle cx="432" cy="414" r="44" fill="none" stroke="#FBC02D" stroke-width="6" opacity="0.9"/>
-        <text x="432" y="423.52" text-anchor="middle"
-          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#1B5E20">
-          14
-        </text>
-      </g>
-      <g>
-        <circle cx="538" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
-        <circle cx="538" cy="414" r="44" fill="none" stroke="#FBC02D" stroke-width="6" opacity="0.9"/>
-        <text x="538" y="423.52" text-anchor="middle"
-          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#1B5E20">
-          16
-        </text>
-      </g>
-      <g>
-        <circle cx="644" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
-        <circle cx="644" cy="414" r="44" fill="none" stroke="#FBC02D" stroke-width="6" opacity="0.9"/>
-        <text x="644" y="423.52" text-anchor="middle"
-          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#1B5E20">
-          23
-        </text>
-      </g>
-      <g>
-        <circle cx="750" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
-        <circle cx="750" cy="414" r="44" fill="none" stroke="#FBC02D" stroke-width="6" opacity="0.9"/>
-        <text x="750" y="423.52" text-anchor="middle"
-          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#1B5E20">
-          30
-        </text>
-      </g>
-  
+      <circle cx="222" cy="404" r="44" fill="rgba(255,255,255,0.94)"/>
+      <text x="222" y="418" text-anchor="middle"
+            font-size="40" font-weight="900"
+            fill="#111">03</text>
+    
+      <circle cx="328" cy="404" r="44" fill="rgba(255,255,255,0.94)"/>
+      <text x="328" y="418" text-anchor="middle"
+            font-size="40" font-weight="900"
+            fill="#111">07</text>
+    
+      <circle cx="434" cy="404" r="44" fill="rgba(255,255,255,0.94)"/>
+      <text x="434" y="418" text-anchor="middle"
+            font-size="40" font-weight="900"
+            fill="#111">16</text>
+    
+      <circle cx="540" cy="404" r="44" fill="rgba(255,255,255,0.94)"/>
+      <text x="540" y="418" text-anchor="middle"
+            font-size="40" font-weight="900"
+            fill="#111">01</text>
+    
+      <circle cx="646" cy="404" r="44" fill="rgba(255,255,255,0.94)"/>
+      <text x="646" y="418" text-anchor="middle"
+            font-size="40" font-weight="900"
+            fill="#111">30</text>
+    
+      <circle cx="752" cy="404" r="44" fill="rgba(255,255,255,0.94)"/>
+      <text x="752" y="418" text-anchor="middle"
+            font-size="40" font-weight="900"
+            fill="#111">14</text>
+    
+      <circle cx="858" cy="404" r="44" fill="rgba(255,255,255,0.94)"/>
+      <text x="858" y="418" text-anchor="middle"
+            font-size="40" font-weight="900"
+            fill="#111">23</text>
+    
 
-  <text x="70" y="760" font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" opacity="0.92">
-    Prêmio estimado
-  </text>
-
-  <text x="70" y="840" font-family="Poppins, Arial, sans-serif" font-size="64" font-weight="900" fill="#FFFFFF">
-    R$ 400.000,00
-  </text>
-
-  <text x="70" y="1010" font-family="Poppins, Arial, sans-serif" font-size="26" font-weight="600" fill="#FFFFFF" opacity="0.9">
-    E1 • Resultados das Loterias
-  </text>
+  <text x="110" y="880" fill="#fff" font-size="54" font-weight="900">ACUMULOU</text>
+  <text x="110" y="940" fill="rgba(255,255,255,0.92)" font-size="34">Próximo: R$ 400.000,00</text>
+  <text x="110" y="1020" fill="rgba(255,255,255,0.85)" font-size="26">E1 • Resultados oficiais (CAIXA)</text>
 </svg>
