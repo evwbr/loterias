@@ -2,13 +2,14 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom">
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>E1 - Resultados das Loterias</title>
 <atom:link href="https://evwbr.github.io/loterias/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/loterias/</link>
 <description>Resultados oficiais das Loterias CAIXA (últimas 36h)</description>
-<lastBuildDate>Sun, 25 Jan 2026 16:45:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 22:28:01 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
 <title><![CDATA[Mega-Sena: concurso 2964 acumulou]]></title>
@@ -17,12 +18,13 @@
 <pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
 <category><![CDATA[Loterias]]></category>
 <guid isPermaLink="false"><![CDATA[lot:megasena:2964:2026-01-24]]></guid>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/megasena-2964-2026-01-24.png" type="image/png" length="18258"/>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/megasena-2964-2026-01-24.png" type="image/png" length="0"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/megasena-2964-2026-01-24.png"/>
 <description><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/megasena-2964-2026-01-24.png" alt="Mega-Sena: concurso 2964 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 03 - 09 - 15 - 17 - 30 - 60. Acumulou. Próximo prêmio estimado: R$ 92.000.000,00. Próximo sorteio: 27/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/megasena-2964-2026-01-24.png" alt="Mega-Sena: concurso 2964 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 03 - 09 - 15 - 17 - 30 - 60. Acumulou. Próximo prêmio estimado: R$ 92.000.000,00. Próximo sorteio: 27/01/2026.</p>
 ]]></description>
 <content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/megasena-2964-2026-01-24.png" alt="Mega-Sena: concurso 2964 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 03 - 09 - 15 - 17 - 30 - 60. Acumulou. Próximo prêmio estimado: R$ 92.000.000,00. Próximo sorteio: 27/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/megasena-2964-2026-01-24.png" alt="Mega-Sena: concurso 2964 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 03 - 09 - 15 - 17 - 30 - 60. Acumulou. Próximo prêmio estimado: R$ 92.000.000,00. Próximo sorteio: 27/01/2026.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -32,12 +34,13 @@
 <pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
 <category><![CDATA[Loterias]]></category>
 <guid isPermaLink="false"><![CDATA[lot:quina:6936:2026-01-24]]></guid>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/quina-6936-2026-01-24.png" type="image/png" length="18258"/>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/quina-6936-2026-01-24.png" type="image/png" length="0"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/quina-6936-2026-01-24.png"/>
 <description><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/quina-6936-2026-01-24.png" alt="Quina: concurso 6936 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 08 - 15 - 21 - 39 - 48. Acumulou. Próximo prêmio estimado: R$ 10.200.000,00. Próximo sorteio: 26/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/quina-6936-2026-01-24.png" alt="Quina: concurso 6936 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 08 - 15 - 21 - 39 - 48. Acumulou. Próximo prêmio estimado: R$ 10.200.000,00. Próximo sorteio: 26/01/2026.</p>
 ]]></description>
 <content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/quina-6936-2026-01-24.png" alt="Quina: concurso 6936 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 08 - 15 - 21 - 39 - 48. Acumulou. Próximo prêmio estimado: R$ 10.200.000,00. Próximo sorteio: 26/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/quina-6936-2026-01-24.png" alt="Quina: concurso 6936 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 08 - 15 - 21 - 39 - 48. Acumulou. Próximo prêmio estimado: R$ 10.200.000,00. Próximo sorteio: 26/01/2026.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -47,12 +50,13 @@
 <pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
 <category><![CDATA[Loterias]]></category>
 <guid isPermaLink="false"><![CDATA[lot:lotofacil:3596:2026-01-24]]></guid>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/lotofacil-3596-2026-01-24.png" type="image/png" length="18258"/>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/lotofacil-3596-2026-01-24.png" type="image/png" length="0"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/lotofacil-3596-2026-01-24.png"/>
 <description><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/lotofacil-3596-2026-01-24.png" alt="Lotofácil: concurso 3596 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 02 - 03 - 04 - 05 - 06 - 07 - 08 - 14 - 15 - 16 - 18 - 20 - 21 - 22. Acumulou. Próximo prêmio estimado: R$ 5.000.000,00. Próximo sorteio: 26/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/lotofacil-3596-2026-01-24.png" alt="Lotofácil: concurso 3596 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 02 - 03 - 04 - 05 - 06 - 07 - 08 - 14 - 15 - 16 - 18 - 20 - 21 - 22. Acumulou. Próximo prêmio estimado: R$ 5.000.000,00. Próximo sorteio: 26/01/2026.</p>
 ]]></description>
 <content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/lotofacil-3596-2026-01-24.png" alt="Lotofácil: concurso 3596 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 02 - 03 - 04 - 05 - 06 - 07 - 08 - 14 - 15 - 16 - 18 - 20 - 21 - 22. Acumulou. Próximo prêmio estimado: R$ 5.000.000,00. Próximo sorteio: 26/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/lotofacil-3596-2026-01-24.png" alt="Lotofácil: concurso 3596 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 02 - 03 - 04 - 05 - 06 - 07 - 08 - 14 - 15 - 16 - 18 - 20 - 21 - 22. Acumulou. Próximo prêmio estimado: R$ 5.000.000,00. Próximo sorteio: 26/01/2026.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -62,12 +66,13 @@
 <pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
 <category><![CDATA[Loterias]]></category>
 <guid isPermaLink="false"><![CDATA[lot:timemania:2347:2026-01-24]]></guid>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/timemania-2347-2026-01-24.png" type="image/png" length="18258"/>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/timemania-2347-2026-01-24.png" type="image/png" length="0"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/timemania-2347-2026-01-24.png"/>
 <description><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/timemania-2347-2026-01-24.png" alt="Timemania: concurso 2347 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 19 - 26 - 32 - 35 - 61 - 72. Acumulou. Próximo prêmio estimado: R$ 3.800.000,00. Próximo sorteio: 27/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/timemania-2347-2026-01-24.png" alt="Timemania: concurso 2347 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 19 - 26 - 32 - 35 - 61 - 72. Acumulou. Próximo prêmio estimado: R$ 3.800.000,00. Próximo sorteio: 27/01/2026.</p>
 ]]></description>
 <content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/timemania-2347-2026-01-24.png" alt="Timemania: concurso 2347 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 19 - 26 - 32 - 35 - 61 - 72. Acumulou. Próximo prêmio estimado: R$ 3.800.000,00. Próximo sorteio: 27/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/timemania-2347-2026-01-24.png" alt="Timemania: concurso 2347 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 19 - 26 - 32 - 35 - 61 - 72. Acumulou. Próximo prêmio estimado: R$ 3.800.000,00. Próximo sorteio: 27/01/2026.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -77,12 +82,13 @@
 <pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
 <category><![CDATA[Loterias]]></category>
 <guid isPermaLink="false"><![CDATA[lot:diadesorte:1168:2026-01-24]]></guid>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/diadesorte-1168-2026-01-24.png" type="image/png" length="18258"/>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/diadesorte-1168-2026-01-24.png" type="image/png" length="0"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/diadesorte-1168-2026-01-24.png"/>
 <description><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/diadesorte-1168-2026-01-24.png" alt="Dia de Sorte: concurso 1168 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 03 - 07 - 14 - 16 - 23 - 30. Acumulou. Próximo prêmio estimado: R$ 400.000,00. Próximo sorteio: 27/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/diadesorte-1168-2026-01-24.png" alt="Dia de Sorte: concurso 1168 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 03 - 07 - 14 - 16 - 23 - 30. Acumulou. Próximo prêmio estimado: R$ 400.000,00. Próximo sorteio: 27/01/2026.</p>
 ]]></description>
 <content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/loterias/thumbs/diadesorte-1168-2026-01-24.png" alt="Dia de Sorte: concurso 1168 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 03 - 07 - 14 - 16 - 23 - 30. Acumulou. Próximo prêmio estimado: R$ 400.000,00. Próximo sorteio: 27/01/2026.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/diadesorte-1168-2026-01-24.png" alt="Dia de Sorte: concurso 1168 acumulou" style="max-width:100%;height:auto;border-radius:18px"/></p><p>Apuração em 24/01/2026. Sorteio em SÃO PAULO, SP. Dezenas: 01 - 03 - 07 - 14 - 16 - 23 - 30. Acumulou. Próximo prêmio estimado: R$ 400.000,00. Próximo sorteio: 27/01/2026.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
