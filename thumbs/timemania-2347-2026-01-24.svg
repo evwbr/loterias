@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F9A825"/>
+      <stop offset="1" stop-color="#cc8a1e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+
+  <text x="70" y="120" font-family="Poppins, Arial, sans-serif" font-size="54" font-weight="900" fill="#0A0A0A">
+    Timemania
+  </text>
+
+  <text x="70" y="180" font-family="Poppins, Arial, sans-serif" font-size="30" font-weight="700" fill="#0A0A0A" opacity="0.92">
+    Concurso 2347 • 24/01/2026
+  </text>
+
+  <text x="70" y="300" font-family="Poppins, Arial, sans-serif" font-size="86" font-weight="900" fill="#0A0A0A">
+    ACUMULOU
+  </text>
+
+  
+      <g>
+        <circle cx="114" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
+        <circle cx="114" cy="414" r="44" fill="none" stroke="#FFF59D" stroke-width="6" opacity="0.9"/>
+        <text x="114" y="423.52" text-anchor="middle"
+          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#6D4C41">
+          01
+        </text>
+      </g>
+      <g>
+        <circle cx="220" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
+        <circle cx="220" cy="414" r="44" fill="none" stroke="#FFF59D" stroke-width="6" opacity="0.9"/>
+        <text x="220" y="423.52" text-anchor="middle"
+          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#6D4C41">
+          19
+        </text>
+      </g>
+      <g>
+        <circle cx="326" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
+        <circle cx="326" cy="414" r="44" fill="none" stroke="#FFF59D" stroke-width="6" opacity="0.9"/>
+        <text x="326" y="423.52" text-anchor="middle"
+          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#6D4C41">
+          26
+        </text>
+      </g>
+      <g>
+        <circle cx="432" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
+        <circle cx="432" cy="414" r="44" fill="none" stroke="#FFF59D" stroke-width="6" opacity="0.9"/>
+        <text x="432" y="423.52" text-anchor="middle"
+          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#6D4C41">
+          32
+        </text>
+      </g>
+      <g>
+        <circle cx="538" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
+        <circle cx="538" cy="414" r="44" fill="none" stroke="#FFF59D" stroke-width="6" opacity="0.9"/>
+        <text x="538" y="423.52" text-anchor="middle"
+          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#6D4C41">
+          35
+        </text>
+      </g>
+      <g>
+        <circle cx="644" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
+        <circle cx="644" cy="414" r="44" fill="none" stroke="#FFF59D" stroke-width="6" opacity="0.9"/>
+        <text x="644" y="423.52" text-anchor="middle"
+          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#6D4C41">
+          61
+        </text>
+      </g>
+      <g>
+        <circle cx="750" cy="414" r="44" fill="#FFFFFF" opacity="0.98"/>
+        <circle cx="750" cy="414" r="44" fill="none" stroke="#FFF59D" stroke-width="6" opacity="0.9"/>
+        <text x="750" y="423.52" text-anchor="middle"
+          font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="800" fill="#6D4C41">
+          72
+        </text>
+      </g>
+  
+
+  <text x="70" y="760" font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="700" fill="#0A0A0A" opacity="0.92">
+    Prêmio estimado
+  </text>
+
+  <text x="70" y="840" font-family="Poppins, Arial, sans-serif" font-size="64" font-weight="900" fill="#0A0A0A">
+    R$ 3.800.000,00
+  </text>
+
+  <text x="70" y="1010" font-family="Poppins, Arial, sans-serif" font-size="26" font-weight="600" fill="#0A0A0A" opacity="0.9">
+    E1 • Resultados das Loterias
+  </text>
+</svg>
