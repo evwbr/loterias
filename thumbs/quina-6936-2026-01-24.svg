@@ -28,38 +28,38 @@
   <text class="font t2" x="80" y="155">24/01/2026 • ESPAÇO DA SORTE em SÃO PAULO, SP</text>
 
   <rect x="80" y="168" width="340" height="50" rx="25" fill="rgba(0,0,0,.18)"/>
-  <text class="font tag" x="98" y="210">TEVE GANHADOR</text>
+  <text class="font tag" x="98" y="203">TEVE GANHADOR</text>
 
   <g filter="url(#soft)">
     
       <g>
-        <circle cx="484" cy="345" r="22" fill="#ffffff" opacity="0.96"/>
-        <circle cx="484" cy="345" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
-        <text class="font ballText" x="484" y="351" text-anchor="middle">08</text>
+        <circle cx="472" cy="340" r="24" fill="#ffffff" opacity="0.96"/>
+        <circle cx="472" cy="340" r="24" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="472" y="346" text-anchor="middle">08</text>
       </g>
     
       <g>
-        <circle cx="542" cy="345" r="22" fill="#ffffff" opacity="0.96"/>
-        <circle cx="542" cy="345" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
-        <text class="font ballText" x="542" y="351" text-anchor="middle">15</text>
+        <circle cx="536" cy="340" r="24" fill="#ffffff" opacity="0.96"/>
+        <circle cx="536" cy="340" r="24" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="536" y="346" text-anchor="middle">15</text>
       </g>
     
       <g>
-        <circle cx="600" cy="345" r="22" fill="#ffffff" opacity="0.96"/>
-        <circle cx="600" cy="345" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
-        <text class="font ballText" x="600" y="351" text-anchor="middle">21</text>
+        <circle cx="600" cy="340" r="24" fill="#ffffff" opacity="0.96"/>
+        <circle cx="600" cy="340" r="24" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="600" y="346" text-anchor="middle">21</text>
       </g>
     
       <g>
-        <circle cx="658" cy="345" r="22" fill="#ffffff" opacity="0.96"/>
-        <circle cx="658" cy="345" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
-        <text class="font ballText" x="658" y="351" text-anchor="middle">39</text>
+        <circle cx="664" cy="340" r="24" fill="#ffffff" opacity="0.96"/>
+        <circle cx="664" cy="340" r="24" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="664" y="346" text-anchor="middle">39</text>
       </g>
     
       <g>
-        <circle cx="716" cy="345" r="22" fill="#ffffff" opacity="0.96"/>
-        <circle cx="716" cy="345" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
-        <text class="font ballText" x="716" y="351" text-anchor="middle">48</text>
+        <circle cx="728" cy="340" r="24" fill="#ffffff" opacity="0.96"/>
+        <circle cx="728" cy="340" r="24" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="728" y="346" text-anchor="middle">48</text>
       </g>
     
   </g>
