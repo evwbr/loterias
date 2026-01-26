@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+      .font { font-family: Poppins, Arial, Helvetica, sans-serif; }
+      .t1 { font-size: 42px; font-weight: 800; fill: #ffffff; }
+      .t2 { font-size: 20px; font-weight: 600; fill: rgba(255,255,255,.92); }
+      .tag { font-size: 22px; font-weight: 800; fill: #ffffff; letter-spacing: .5px; }
+      .small { font-size: 16px; font-weight: 600; fill: rgba(255,255,255,.85); }
+      .value { font-size: 34px; font-weight: 800; fill: #ffffff; }
+      .ballText { font-size: 16px; font-weight: 800; fill: #111827; }
+    ]]></style>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#aa3087"/>
+      <stop offset="1" stop-color="#8d166b"/>
+    </linearGradient>
+
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="rgba(0,0,0,.28)"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="630" rx="28" fill="url(#bg)"/>
+
+  <text class="font t1" x="80" y="110">Lotofácil • Concurso 3596</text>
+  <text class="font t2" x="80" y="155">24/01/2026 • ESPAÇO DA SORTE em SÃO PAULO, SP</text>
+
+  <rect x="80" y="168" width="270" height="50" rx="25" fill="rgba(0,0,0,.18)"/>
+  <text class="font tag" x="98" y="210">SAIU</text>
+
+  <g filter="url(#soft)">
+    
+      <g>
+        <circle cx="339" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="339" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="339" y="307" text-anchor="middle">01</text>
+      </g>
+    
+      <g>
+        <circle cx="397" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="397" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="397" y="307" text-anchor="middle">02</text>
+      </g>
+    
+      <g>
+        <circle cx="455" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="455" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="455" y="307" text-anchor="middle">03</text>
+      </g>
+    
+      <g>
+        <circle cx="513" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="513" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="513" y="307" text-anchor="middle">04</text>
+      </g>
+    
+      <g>
+        <circle cx="571" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="571" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="571" y="307" text-anchor="middle">05</text>
+      </g>
+    
+      <g>
+        <circle cx="629" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="629" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="629" y="307" text-anchor="middle">06</text>
+      </g>
+    
+      <g>
+        <circle cx="687" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="687" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="687" y="307" text-anchor="middle">07</text>
+      </g>
+    
+      <g>
+        <circle cx="745" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="745" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="745" y="307" text-anchor="middle">08</text>
+      </g>
+    
+      <g>
+        <circle cx="803" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="803" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="803" y="307" text-anchor="middle">14</text>
+      </g>
+    
+      <g>
+        <circle cx="861" cy="301" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="861" cy="301" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="861" y="307" text-anchor="middle">15</text>
+      </g>
+    
+      <g>
+        <circle cx="484" cy="359" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="484" cy="359" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="484" y="365" text-anchor="middle">16</text>
+      </g>
+    
+      <g>
+        <circle cx="542" cy="359" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="542" cy="359" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="542" y="365" text-anchor="middle">18</text>
+      </g>
+    
+      <g>
+        <circle cx="600" cy="359" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="600" cy="359" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="600" y="365" text-anchor="middle">20</text>
+      </g>
+    
+      <g>
+        <circle cx="658" cy="359" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="658" cy="359" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="658" y="365" text-anchor="middle">21</text>
+      </g>
+    
+      <g>
+        <circle cx="716" cy="359" r="22" fill="#ffffff" opacity="0.96"/>
+        <circle cx="716" cy="359" r="22" fill="none" stroke="rgba(0,0,0,.10)" stroke-width="1"/>
+        <text class="font ballText" x="716" y="365" text-anchor="middle">22</text>
+      </g>
+    
+  </g>
+
+  <text class="font small" x="80" y="480">Prêmio estimado</text>
+  <text class="font value" x="80" y="545">R$ 5.000.000,00</text>
+
+  <text class="font small" x="80" y="592" opacity="0.85">E1 • Resultados oficiais</text>
+</svg>
