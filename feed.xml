@@ -2,88 +2,94 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom">
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<title>E1 - Resultados das Loterias</title>
-<atom:link href="https://evwbr.github.io/loterias/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/loterias/</link>
-<description>Resultados oficiais das Loterias CAIXA (últimas 36h)</description>
-<lastBuildDate>Sun, 25 Jan 2026 23:41:13 GMT</lastBuildDate>
-<language>pt-BR</language>
-<item>
-<title><![CDATA[Mega-Sena: concurso 2964 acumulou]]></title>
-<link>https://evwbr.github.io/loterias/p/megasena-2964-2026-01-24.html</link>
-<guid isPermaLink="true">https://evwbr.github.io/loterias/p/megasena-2964-2026-01-24.html</guid>
-<dc:creator><![CDATA[E1 / Evo Web]]></dc:creator>
-<pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
-<category><![CDATA[Loterias]]></category>
-<category><![CDATA[Mega-Sena]]></category>
-<category><![CDATA[Concurso 2964]]></category>
-<description><![CDATA[Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 30 - 15 - 60 - 17 - 09 - 03. Acumulou. Próximo prêmio estimado: R$ 92.000.000,00. Próximo sorteio: 27/01/2026.]]></description>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/megasena-2964-2026-01-24.svg?v=1769384460499" type="image/svg+xml" length="2123"/>
-<content:encoded><![CDATA[
-<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 30 - 15 - 60 - 17 - 09 - 03. Acumulou. Próximo prêmio estimado: R$ 92.000.000,00. Próximo sorteio: 27/01/2026.</p><p><a href="https://loterias.caixa.gov.br/Paginas/megasena.aspx" rel="nofollow">Fonte oficial: Caixa</a></p>
+  <title>E1 - Resultados das Loterias</title>
+  <atom:link href="https://evwbr.github.io/loterias/feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://evwbr.github.io/loterias/</link>
+  <description>Resultados oficiais das Loterias CAIXA (últimas 36h)</description>
+  <lastBuildDate>Mon, 26 Jan 2026 09:25:39 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <item>
+    <title>Mega-Sena: concurso 2964 acumulou</title>
+    <link>https://evwbr.github.io/loterias/p/megasena-2964-2026-01-24.html</link>
+    <guid isPermaLink="true">https://evwbr.github.io/loterias/p/megasena-2964-2026-01-24.html</guid>
+    <dc:creator>E1 / Evo Web</dc:creator>
+    <pubDate>Sun, 25 Jan 2026 02:59:00 GMT</pubDate>
+    <category>Loterias</category>
+    <category>Mega-Sena</category>
+    <category>Concurso 2964</category>
+    <description>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 30 - 15 - 60 - 17 - 09 - 03. Acumulou. Próximo prêmio estimado: R$ 92.000.000,00. Próximo sorteio: 27/01/2026.</description>
+    <enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/megasena-2964-2026-01-24.png" type="image/png" length="0"/>
+    <media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/megasena-2964-2026-01-24.png"/>
+    <content:encoded><![CDATA[
+<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 30 - 15 - 60 - 17 - 09 - 03. Acumulou.</p><p>Próximo prêmio estimado: R$ 92.000.000,00. Próximo sorteio: 27/01/2026.</p>
 ]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Quina: concurso 6936 acumulou]]></title>
-<link>https://evwbr.github.io/loterias/p/quina-6936-2026-01-24.html</link>
-<guid isPermaLink="true">https://evwbr.github.io/loterias/p/quina-6936-2026-01-24.html</guid>
-<dc:creator><![CDATA[E1 / Evo Web]]></dc:creator>
-<pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
-<category><![CDATA[Loterias]]></category>
-<category><![CDATA[Quina]]></category>
-<category><![CDATA[Concurso 6936]]></category>
-<description><![CDATA[Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 48 - 39 - 15 - 08 - 21. Acumulou. Próximo prêmio estimado: R$ 10.200.000,00. Próximo sorteio: 26/01/2026.]]></description>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/quina-6936-2026-01-24.svg?v=1769384462485" type="image/svg+xml" length="1915"/>
-<content:encoded><![CDATA[
-<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 48 - 39 - 15 - 08 - 21. Acumulou. Próximo prêmio estimado: R$ 10.200.000,00. Próximo sorteio: 26/01/2026.</p><p><a href="https://loterias.caixa.gov.br/Paginas/quina.aspx" rel="nofollow">Fonte oficial: Caixa</a></p>
+  </item>
+  <item>
+    <title>Quina: concurso 6936 acumulou</title>
+    <link>https://evwbr.github.io/loterias/p/quina-6936-2026-01-24.html</link>
+    <guid isPermaLink="true">https://evwbr.github.io/loterias/p/quina-6936-2026-01-24.html</guid>
+    <dc:creator>E1 / Evo Web</dc:creator>
+    <pubDate>Sun, 25 Jan 2026 02:59:00 GMT</pubDate>
+    <category>Loterias</category>
+    <category>Quina</category>
+    <category>Concurso 6936</category>
+    <description>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 48 - 39 - 15 - 08 - 21. Acumulou. Próximo prêmio estimado: R$ 10.200.000,00. Próximo sorteio: 26/01/2026.</description>
+    <enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/quina-6936-2026-01-24.png" type="image/png" length="0"/>
+    <media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/quina-6936-2026-01-24.png"/>
+    <content:encoded><![CDATA[
+<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 48 - 39 - 15 - 08 - 21. Acumulou.</p><p>Próximo prêmio estimado: R$ 10.200.000,00. Próximo sorteio: 26/01/2026.</p>
 ]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Lotofácil: concurso 3596 acumulou]]></title>
-<link>https://evwbr.github.io/loterias/p/lotofacil-3596-2026-01-24.html</link>
-<guid isPermaLink="true">https://evwbr.github.io/loterias/p/lotofacil-3596-2026-01-24.html</guid>
-<dc:creator><![CDATA[E1 / Evo Web]]></dc:creator>
-<pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
-<category><![CDATA[Loterias]]></category>
-<category><![CDATA[Lotofácil]]></category>
-<category><![CDATA[Concurso 3596]]></category>
-<description><![CDATA[Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 18 - 06 - 04 - 20 - 03 - 14 - 22 - 08 - 21 - 07 - 15 - 02 - 01 - 05 - 16. Acumulou. Próximo prêmio estimado: R$ 5.000.000,00. Próximo sorteio: 26/01/2026.]]></description>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/lotofacil-3596-2026-01-24.svg?v=1769384465648" type="image/svg+xml" length="3959"/>
-<content:encoded><![CDATA[
-<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 18 - 06 - 04 - 20 - 03 - 14 - 22 - 08 - 21 - 07 - 15 - 02 - 01 - 05 - 16. Acumulou. Próximo prêmio estimado: R$ 5.000.000,00. Próximo sorteio: 26/01/2026.</p><p><a href="https://loterias.caixa.gov.br/Paginas/lotofacil.aspx" rel="nofollow">Fonte oficial: Caixa</a></p>
+  </item>
+  <item>
+    <title>Lotofácil: concurso 3596 acumulou</title>
+    <link>https://evwbr.github.io/loterias/p/lotofacil-3596-2026-01-24.html</link>
+    <guid isPermaLink="true">https://evwbr.github.io/loterias/p/lotofacil-3596-2026-01-24.html</guid>
+    <dc:creator>E1 / Evo Web</dc:creator>
+    <pubDate>Sun, 25 Jan 2026 02:59:00 GMT</pubDate>
+    <category>Loterias</category>
+    <category>Lotofácil</category>
+    <category>Concurso 3596</category>
+    <description>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 18 - 06 - 04 - 20 - 03 - 14 - 22 - 08 - 21 - 07 - 15 - 02 - 01 - 05 - 16. Acumulou. Próximo prêmio estimado: R$ 5.000.000,00. Próximo sorteio: 26/01/2026.</description>
+    <enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/lotofacil-3596-2026-01-24.png" type="image/png" length="0"/>
+    <media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/lotofacil-3596-2026-01-24.png"/>
+    <content:encoded><![CDATA[
+<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 18 - 06 - 04 - 20 - 03 - 14 - 22 - 08 - 21 - 07 - 15 - 02 - 01 - 05 - 16. Acumulou.</p><p>Próximo prêmio estimado: R$ 5.000.000,00. Próximo sorteio: 26/01/2026.</p>
 ]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Timemania: concurso 2347 acumulou]]></title>
-<link>https://evwbr.github.io/loterias/p/timemania-2347-2026-01-24.html</link>
-<guid isPermaLink="true">https://evwbr.github.io/loterias/p/timemania-2347-2026-01-24.html</guid>
-<dc:creator><![CDATA[E1 / Evo Web]]></dc:creator>
-<pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
-<category><![CDATA[Loterias]]></category>
-<category><![CDATA[Timemania]]></category>
-<category><![CDATA[Concurso 2347]]></category>
-<description><![CDATA[Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 26 - 61 - 32 - 35 - 72 - 01 - 19. Acumulou. Próximo prêmio estimado: R$ 3.800.000,00. Próximo sorteio: 27/01/2026.]]></description>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/timemania-2347-2026-01-24.svg?v=1769384469120" type="image/svg+xml" length="2326"/>
-<content:encoded><![CDATA[
-<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 26 - 61 - 32 - 35 - 72 - 01 - 19. Acumulou. Próximo prêmio estimado: R$ 3.800.000,00. Próximo sorteio: 27/01/2026.</p><p><a href="https://loterias.caixa.gov.br/Paginas/timemania.aspx" rel="nofollow">Fonte oficial: Caixa</a></p>
+  </item>
+  <item>
+    <title>Timemania: concurso 2347 acumulou</title>
+    <link>https://evwbr.github.io/loterias/p/timemania-2347-2026-01-24.html</link>
+    <guid isPermaLink="true">https://evwbr.github.io/loterias/p/timemania-2347-2026-01-24.html</guid>
+    <dc:creator>E1 / Evo Web</dc:creator>
+    <pubDate>Sun, 25 Jan 2026 02:59:00 GMT</pubDate>
+    <category>Loterias</category>
+    <category>Timemania</category>
+    <category>Concurso 2347</category>
+    <description>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 26 - 61 - 32 - 35 - 72 - 01 - 19. Acumulou. Próximo prêmio estimado: R$ 3.800.000,00. Próximo sorteio: 27/01/2026.</description>
+    <enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/timemania-2347-2026-01-24.png" type="image/png" length="0"/>
+    <media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/timemania-2347-2026-01-24.png"/>
+    <content:encoded><![CDATA[
+<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 26 - 61 - 32 - 35 - 72 - 01 - 19. Acumulou.</p><p>Próximo prêmio estimado: R$ 3.800.000,00. Próximo sorteio: 27/01/2026.</p>
 ]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Dia de Sorte: concurso 1168 acumulou]]></title>
-<link>https://evwbr.github.io/loterias/p/diadesorte-1168-2026-01-24.html</link>
-<guid isPermaLink="true">https://evwbr.github.io/loterias/p/diadesorte-1168-2026-01-24.html</guid>
-<dc:creator><![CDATA[E1 / Evo Web]]></dc:creator>
-<pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
-<category><![CDATA[Loterias]]></category>
-<category><![CDATA[Dia de Sorte]]></category>
-<category><![CDATA[Concurso 1168]]></category>
-<description><![CDATA[Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 03 - 07 - 16 - 01 - 30 - 14 - 23. Acumulou. Próximo prêmio estimado: R$ 400.000,00. Próximo sorteio: 27/01/2026.]]></description>
-<enclosure url="https://evwbr.github.io/loterias/thumbs/diadesorte-1168-2026-01-24.svg?v=1769384471824" type="image/svg+xml" length="2327"/>
-<content:encoded><![CDATA[
-<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 03 - 07 - 16 - 01 - 30 - 14 - 23. Acumulou. Próximo prêmio estimado: R$ 400.000,00. Próximo sorteio: 27/01/2026.</p><p><a href="https://loterias.caixa.gov.br/Paginas/diadesorte.aspx" rel="nofollow">Fonte oficial: Caixa</a></p>
+  </item>
+  <item>
+    <title>Dia de Sorte: concurso 1168 acumulou</title>
+    <link>https://evwbr.github.io/loterias/p/diadesorte-1168-2026-01-24.html</link>
+    <guid isPermaLink="true">https://evwbr.github.io/loterias/p/diadesorte-1168-2026-01-24.html</guid>
+    <dc:creator>E1 / Evo Web</dc:creator>
+    <pubDate>Sun, 25 Jan 2026 02:59:00 GMT</pubDate>
+    <category>Loterias</category>
+    <category>Dia de Sorte</category>
+    <category>Concurso 1168</category>
+    <description>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 03 - 07 - 16 - 01 - 30 - 14 - 23. Acumulou. Próximo prêmio estimado: R$ 400.000,00. Próximo sorteio: 27/01/2026.</description>
+    <enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/diadesorte-1168-2026-01-24.png" type="image/png" length="0"/>
+    <media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/f_png/loterias/diadesorte-1168-2026-01-24.png"/>
+    <content:encoded><![CDATA[
+<p>Apuração em 24/01/2026. Sorteio em ESPAÇO DA SORTE. Dezenas: 03 - 07 - 16 - 01 - 30 - 14 - 23. Acumulou.</p><p>Próximo prêmio estimado: R$ 400.000,00. Próximo sorteio: 27/01/2026.</p>
 ]]></content:encoded>
-</item>
+  </item>
 </channel>
 </rss>
